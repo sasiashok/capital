@@ -1,5 +1,5 @@
-class hello()
+class hello() #ashok
 {
-  public static void main()
+  public static void main() #ashok
   system.out.println();
 }
