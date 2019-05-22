@@ -1,5 +1,0 @@
-class hello() #ashok
-{
-  public static void main() #krish
-  system.out.println();
-} #krish
